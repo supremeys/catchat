@@ -1,4 +1,4 @@
-# CatChat
+# CatChat for ys
 
 *Chatroom for coders, not cats.*
 
